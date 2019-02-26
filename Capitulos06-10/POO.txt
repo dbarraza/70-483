@@ -1,0 +1,35 @@
+Programación Orienta a Objetos en C#:
+
+Pilares de la POO:
+
+1.- Encapsulamiento
+    - Protección de Datos
+        Properties
+            Full
+            Auto Implemented
+        Indexers
+    - Modificadores de Acceso
+        Private
+        Public
+        Internal
+        Protected
+        Internal Protected
+
+2.- Herencia
+    - Clases Abstractas
+    - Interfaces
+        Implementación Explicita
+        Implementación Implicita
+
+3.- Polimorfismo
+    - Estático
+        Sobrecarga de Métodos
+            Por tipo de parámetro
+            Por cantidad de parámetros
+        Sobrecarga de Operadores
+            Unario
+            Binario
+            Comparacion
+    - Dinámico
+            Virtual Method
+            Abstract Method

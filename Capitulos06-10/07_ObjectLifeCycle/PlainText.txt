@@ -1,0 +1,6 @@
+este es un
+texto de ejemplo
+para probar la
+implementación
+de la clase
+IDisposable

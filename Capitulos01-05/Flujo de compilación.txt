@@ -1,0 +1,6 @@
+Flujo de compilación .NET
+
+
+			       compilador cs      CLR					JIT
+			 
+código fuente(.cs)	    =>      IL     =>     EXE / DLL     =>    Native Code

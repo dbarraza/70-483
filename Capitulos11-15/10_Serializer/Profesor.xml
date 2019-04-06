@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfProfesor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profesor ID="1">
+    <Name>Profesor</Name>
+    <Alumno>
+      <AlumnoID>30</AlumnoID>
+      <RUT>1111111</RUT>
+      <Nombre>Alumno con rolId 30</Nombre>
+    </Alumno>
+  </Profesor>
+  <Profesor ID="1">
+    <Name>Profesor</Name>
+    <Alumno>
+      <AlumnoID>30</AlumnoID>
+      <RUT>1111111</RUT>
+      <Nombre>Alumno con rolId 30</Nombre>
+    </Alumno>
+  </Profesor>
+</ArrayOfProfesor>

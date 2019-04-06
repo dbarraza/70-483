@@ -101,6 +101,10 @@ namespace _10_Reader
             //To Create
             FileInfo info = new FileInfo(fileInfo);
             info.Create();
+
+            //To open file, if it doesn't exist, to create it and access in read only mode, not blocking access to it from another process
+            var read = File.Open("sampleeeeee.txt", FileMode.OpenOrCreate, FileAccess.Read, FileShare.ReadWrite);
+            read.WriteLine("Texto de prueba en Modo solo lectura");
             #endregion
 
             #region Working with Stream
